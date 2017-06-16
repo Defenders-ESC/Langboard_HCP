@@ -1,0 +1,5 @@
+packrat/lib*/
+.Rproj.user
+www/*.docx
+www/*.pptx
+_site/*
